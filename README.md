@@ -1,12 +1,8 @@
-# Hi there! 👋
-
-I am a CS student living in Baku, Azerbaijan 🇦🇿.
-# About Me
-I am an administrator and interface-admin on the Azerbaijani Wikipedia. I occasionally contribute to Wikimedia projects.
-# My Contributions
+Hi there! 👋 I am a CS student living in Baku, Azerbaijan 🇦🇿. I am an administrator and interface-admin on the Azerbaijani Wikipedia. I occasionally contribute to Wikimedia projects.
+### My Contributions
 [Wikimedia](https://meta.wikimedia.org/wiki/Special:CentralAuth/Nemoralis) • [Gerrit](https://gerrit.wikimedia.org/r/q/owner:nerim4n@pm.me) • [Gitlab](https://gitlab.wikimedia.org/nmw03) • [Phabricator](https://phabricator.wikimedia.org/p/Nemoralis/)
 
-Contact Me
+### Contact Me
 
 * Email: [nemoralis@duck.com](mailto:nemoralis@duck.com)
 * Mastodon: [neriman@wikis.world](https://wikis.world/@neriman)
