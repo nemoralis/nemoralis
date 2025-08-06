@@ -6,6 +6,7 @@ Hi there! 👋 I am a CS student living in Baku, Azerbaijan 🇦🇿. I am an ad
 
 * Email: [nemoralis@duck.com](mailto:nemoralis@duck.com)
 * Mastodon: [neriman@wikis.world](https://wikis.world/@neriman)
+* Telegram: [nemoralis](https://t.me/nemoralis)
 * Discord: You can find me on the [Wikimedia Community Discord server](https://discord.gg/wikipedia). My username is `nem0ralis`
 
 Feel free to reach out if you have any questions or want to collaborate!
